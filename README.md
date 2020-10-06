@@ -15,6 +15,7 @@ These are program/script ideas that you can code and add to this repo via adding
 1. A script that can open softwares present in your system based on voice command. [Hard, Meduim if using python]
 1. A wallpaper changing script that changes wallpapers every x seconds selecting wallpapers from a folder. [Hard]
 1. A program that shows currently playing song in spotify/chrome and fetches its lyrics and display them in accordance with time. display should be like html's marque tag. Interface should be think and should only contain now playing and lyrics. [Hard]
+
 ```[Song Name :  <- Hello, World!(Lyrics) <- ... ]```
 1. A good looking visualiser built using pygame for now playing music.[Hard]
 1. Any kind of short game made. Python users can use pygame to build games like flappy bird. C++ users can use sfml. [Medium]
