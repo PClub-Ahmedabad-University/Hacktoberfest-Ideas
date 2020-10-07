@@ -4,7 +4,7 @@ Ideas for hactoberfest event
 
 ## Background
 
-These are program/script ideas that you can code and add to this repo via adding a PR. All valid contributions will be flagged as hacktoberfest-accepted. These were formed keeping in mind python ecosystem however you are welcome to try them in any other language. If you're interested to work on any one of them add an issue and we can discuss further. If you have any Idea of your own again add an issue and we can discuss.
+These are program/script ideas that you can code and add to this repo (either this one or a repo named as Amazing Python Scripts on PClub Account) via adding a PR. All valid contributions will be flagged as hacktoberfest-accepted. These were formed keeping in mind python ecosystem however you are welcome to try them in any other language. If you're interested to work on any one of them add an issue and we can discuss further. If you have any Idea of your own again add an issue and we can discuss.
 
 ## Ideas 
 
@@ -18,7 +18,7 @@ These are program/script ideas that you can code and add to this repo via adding
 1. A good looking visualiser built using pygame for now playing music.[Hard]
 1. Any kind of short game made. Python users can use pygame to build games like flappy bird. C++ users can use sfml. [Medium]
 
-## Repositories We have managed for you to contribute to 
+## Repositories we have managed for you to contribute to 
 
 1. Get Me Notes [Get-Me-Notes](https://github.com/Kaushal1011/getmenotes) : getmenotes is a project that makes markdown notes for you based on comments in the code of your project. you can use this to make documentation for your project or even make conceptual notes from your project ( in a project based learning approach).
 1. Machine-Learning [Machine-Learning](https://github.com/Kaushal1011/machine-learning) : My initial idea for this repo was that it can be use by someone to learn machine learning or to refer back when you forget something. We have the repo notebooks hosted as html at https://www.learnthis.ml/ . check it out ! I would recommed you try to contribute in a way that we can show case it there as well !
