@@ -30,3 +30,8 @@ These are program/script ideas that you can code and add to this repo (either th
 1. Diwali-Personalised-greetings [Diwali-Personalised-greetings](https://github.com/yashrajkakkad/Diwali-Personalised-Greetings) : Sends personalised greetings to whatsapp contacts
 1. Citation Engine [Citation Engine](https://github.com/dhruvildave/citation-engine) : Automatic Citation generator
 1. Automatic QR-Email [Automatic QR-Email](https://github.com/dhruvildave/Automatic-QR-email) : This is a program that automates sending emails by generating QR code by reading data from csv files passed in command line arguments file.
+
+
+[![Stargazers repo roster for @PClub-Ahmedabad-University/Hacktoberfest-Ideas](https://reporoster.com/stars/PClub-Ahmedabad-University/Hacktoberfest-Ideas)](https://github.com/PClub-Ahmedabad-University/Hacktoberfest-Ideas/stargazers)
+
+[![Forkers repo roster for @PClub-Ahmedabad-University/Hacktoberfest-Ideas](https://reporoster.com/forks/PClub-Ahmedabad-University/Hacktoberfest-Ideas)](https://github.com/PClub-Ahmedabad-University/Hacktoberfest-Ideas/network/members)
